@@ -1,0 +1,21 @@
+Para le mueble mágico:
+- división libre de 250 desde el techo
+  - cajón para que solo aparezca la tapa
+  - de la zona de adentro, división libre de 50 contra el techo
+  - doble fondo a 18 del frente
+  - en lo que queda abajo doble cajon con el cajon de 1.5mm y 80mm de altura de los laterales
+  - ajustar fondos con 9mm en las ranuras a los laterales
+  - cajon 1 con tapa nula
+  - cajon dos con contra-frente nulo
+  - a la tapa del cajon dos divisirle la superficie:
+    - 3mm de abajo (nulo)
+    - 80mm en el medio
+    - el resto arriba del todo (nulo)
+- division de abajo
+  - division libre 50%
+  - en la de arriba:
+    - division de 100mm desde el suelo
+    - cajon en lo que queda arriba
+  - en la de abajo
+    - cajon con tapa 3mm del suelo
+    - suelo a 25 del frente

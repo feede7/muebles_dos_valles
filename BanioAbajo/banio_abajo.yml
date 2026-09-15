@@ -1,0 +1,5 @@
+placard:
+  - path: '../muebles_dos_valles/BanioAbajo/banio_abajo.txt'
+equivalences:
+  - MELA_BL: mela_blanca
+  - MELA_MAD: material_puertas

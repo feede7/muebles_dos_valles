@@ -1,0 +1,8 @@
+placard:
+  - path: '../muebles_dos_valles/PlacardPrincipal/proyecto_placard_principal.txt'
+placard_arriba:
+  - path: '../muebles_dos_valles/PlacardPrincipal/puertas_arriba_placard_principal.txt'
+equivalences:
+  - MELA_MAD: mela_blanca
+  - OSB3: material_puertas
+  - canto_2mm: X

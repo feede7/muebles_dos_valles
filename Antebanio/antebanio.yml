@@ -1,4 +1,4 @@
-placard:
+antebanio:
   - path: '../muebles_dos_valles/Antebanio/Antebanio.txt'
 equivalences:
   - MELA_BL: mela_blanca

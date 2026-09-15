@@ -1,4 +1,4 @@
-placard:
+banio_abajo:
   - path: '../muebles_dos_valles/BanioAbajo/banio_abajo.txt'
 equivalences:
   - MELA_BL: mela_blanca

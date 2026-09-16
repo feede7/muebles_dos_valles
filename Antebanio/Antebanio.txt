@@ -1,4 +1,5 @@
-564.00;532.00;2;MELA_BL;0;Techo;0;0;0.00;1;0;2.00;;canto_2mm;;
+564.00;130.00;2;MELA_BL;0;Techo_1;0;0;0.00;0;0;0.00;;;;
+564.00;130.00;2;MELA_BL;0;Techo_2;0;0;0.00;1;0;2.00;;canto_2mm;;
 564.00;532.00;2;MELA_BL;0;Suelo;0;0;0.00;1;0;2.00;;canto_2mm;;
 727.00;532.00;4;MELA_BL;0;Lateral Derecho, Lateral Izquierdo;0;0;0.00;1;0;2.00;;canto_2mm;;
 691.00;564.00;2;MELA_BL;0;Trasera;0;0;0.00;0;0;0.00;;;;
@@ -7,7 +8,8 @@
 178.00;594.00;2;MELA_MAD;0;Cajón 1 [1]_4;0;1;2.00;1;1;4.00;canto_2mm;canto_2mm;canto_2mm;
 489.00;377.00;8;Verre;0;Fondo Cajón 1 [1]_1, Fondo Cajón 1 [1]_2, Fondo Cajón 1 [1]_3, Fondo Cajón 1 [1]_4;0;0;0.00;0;0;0.00;;;;
 477.00;107.00;8;Verre;0;Trasera Cajón 1 [1]_1, Trasera Cajón 1 [1]_2, Trasera Cajón 1 [1]_3, Trasera Cajón 1 [1]_4;0;0;0.00;1;0;2.00;;canto_2mm;;
-454.00;532.00;2;MELA_BL;0;Techo;0;0;0.00;1;0;2.00;;canto_2mm;;
+454.00;130.00;2;MELA_BL;0;Techo_1;0;0;0.00;0;0;0.00;;;;
+454.00;130.00;2;MELA_BL;0;Techo_2;0;0;0.00;1;0;2.00;;canto_2mm;;
 454.00;532.00;2;MELA_BL;0;Suelo;0;0;0.00;1;0;2.00;;canto_2mm;;
 727.00;532.00;4;MELA_BL;0;Lateral Derecho, Lateral Izquierdo;0;0;0.00;1;0;2.00;;canto_2mm;;
 691.00;454.00;2;MELA_BL;0;Trasera;0;0;0.00;0;0;0.00;;;;
